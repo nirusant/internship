@@ -115,6 +115,7 @@ int16_t readRawAccelZ( void );
 float readFloatAccelZ( void );
 void applySettings( void );
 void accslr_configIntterupts();
+void accslr_configClick();
 
 
 
